@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="320" viewBox="0 0 500 320" fill="none">
+  <rect width="500" height="320" fill="#f5f3ff"/>
+  <circle cx="250" cy="140" r="70" fill="#c4b5fd" opacity="0.4"/>
+  <circle cx="160" cy="180" r="45" fill="#a78bfa" opacity="0.35"/>
+  <circle cx="340" cy="180" r="45" fill="#a78bfa" opacity="0.35"/>
+  <circle cx="200" cy="230" r="38" fill="#c4b5fd" opacity="0.3"/>
+  <circle cx="300" cy="230" r="38" fill="#c4b5fd" opacity="0.3"/>
+  <text x="250" y="295" text-anchor="middle" fill="#5b4b7a" font-family="system-ui,sans-serif" font-size="13">Community / events photo</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240" fill="none">
+  <rect width="400" height="240" fill="#ede9fe"/>
+  <rect x="80" y="60" width="240" height="120" rx="12" fill="#c4b5fd" opacity="0.5"/>
+  <path d="M160 110h80v20h-80zM160 140h120v8h-120z" fill="#7c3aed" opacity="0.4"/>
+  <text x="200" y="195" text-anchor="middle" fill="#5b4b7a" font-family="system-ui,sans-serif" font-size="13">Project image</text>
+</svg>
